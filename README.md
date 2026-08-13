@@ -20,6 +20,8 @@ Dart
 HTTP para comunicação com a API REST
 JSON para troca de dados
 Heroku como hospedagem da API
+
+
 📁 Estrutura do projeto
 easy_address_app/
 ├── lib/
