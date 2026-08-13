@@ -216,7 +216,7 @@ lib/services/address_service.dart
 
 ##Telas
 
-##Tela Inicial 
+#Tela Inicial 
 
 <img width="494" height="687" alt="Screenshot 2026-08-13 201602" src="https://github.com/user-attachments/assets/1a102323-191f-41eb-87a3-23cc64d1ce77" />
 
