@@ -21,7 +21,7 @@ HTTP para comunicação com a API REST
 JSON para troca de dados
 Heroku como hospedagem da API
 
-
+````
 📁 Estrutura do projeto
 easy_address_app/
 ├── lib/
@@ -40,6 +40,8 @@ easy_address_app/
 ├── test/
 ├── pubspec.yaml
 └── README.md
+
+````
 
 🚀 Como executar
 Pré-requisitos
